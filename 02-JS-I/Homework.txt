@@ -1,0 +1,20 @@
+En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+1.- Variables: se refieren a diferentes tipos de datos que se pueden guardar para
+usarlos luego en diferentes operaciones.
+
+2.- Strings: es un tipo de dato que contiene caracteres, para que un lenguaje de programación
+pueda reconocerlo se debe almacenar entre comillas.
+
+3.- Funciones (argumentos, return): son instrucciones cortas que nos permnite automatizar
+un proceso repetitivo, se le puede pasar información mediante parámetros para ser usados
+dentro de las instrucciones que van a devolver un valor o un conjunto de informacion.
+
+4.- Declaraciones if: se usa como una condicional logica que ejecutara una instruccion si
+cumple una determinada condicion.
+
+5.- Valores booleanos (true, false): es el resultado de una condición logica como verdadero
+o falso
