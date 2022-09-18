@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for : Es una estructura que se crea para controlar un ciclo que se repite hasta cumplir una condición deseada. En su estructura se emplea una sintaxis en la cual 
+      se crea un indice de control con un valor inicial, la condición logica que debe cumplir el indice para que se repita el ciclo deseado y la modificación de este indice
+      mientras se cumpla la condición lógica; y por ultimo el cuerpo del ciclo que queremos ejecutar o controlar
+
+&&, ||, ! : Son operadores lógicos que se usan para formar una expresión lógica que va dar como resultado un valor boleano que puede ser verdadero o falso
